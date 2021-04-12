@@ -53,7 +53,7 @@ python app.py
 
 When using the BizOps Loan Qualifer Application, you will encounter the following series of questions.
 
-![Loan Qualifier Questions](Images/loan_qualifier.png)
+![Loan Qualifier Questions](qualifier/images/loan_qualifier.png)
 
 ---
 
