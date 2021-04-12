@@ -38,11 +38,10 @@ Before using the loan qualifier application, the following packages must be inst
 
 This section should include screenshots, code blocks, or animations showing how your project works.
 
+
 ---
 
 ## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 To use the BizOps Loan Qualifer Application, clone the GitHub repository to your intended computer directory and run **app.py** with:
 
@@ -52,7 +51,8 @@ python app.py
 
 When using the BizOps Loan Qualifer Application, you will encounter the following series of questions.
 
-![Loan Qualifier Questions](qualifier/images/loan_qualifier.png)
+![Loan Qualifier Questions](images/loan_qualifier.png)
+
 
 ---
 
