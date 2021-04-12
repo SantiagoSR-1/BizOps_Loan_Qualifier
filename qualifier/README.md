@@ -36,7 +36,9 @@ Before using the loan qualifier application, the following packages must be inst
 
 ## Examples
 
-This section should include screenshots, code blocks, or animations showing how your project works.
+For a visual reference as to how the interface menu works, please refer to the below animation:
+
+![Loan Qualifier Questions](images/loan_qualifier.gif)
 
 
 ---
