@@ -27,11 +27,10 @@ This application runs on python version 3.7, with the following add-ons:
 
 Before using the loan qualifier application, the following packages must be installed:
 
-'''python
-    pip install fire
-    pip install pytest
-    pip install questionary
-'''
+*    pip install fire
+*    pip install pytest
+*    pip install questionary
+
 
 ---
 
