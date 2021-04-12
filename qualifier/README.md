@@ -34,7 +34,7 @@ Before using the loan qualifier application, the following packages must be inst
 
 ---
 
-## Examples
+## Example
 
 For a visual reference as to how the interface menu works, please refer to the below animation:
 
